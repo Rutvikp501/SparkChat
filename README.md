@@ -29,9 +29,9 @@
 <!-- ![Screen Shot Home](./uploads/home.PNG)
 ![Screen Shot Chat Room](./uploads/ChatRoom.PNG) -->
 Home page 
-<img src="./uploads/home.PNG" width="60" height="60"/>
+<img src="./uploads/home.PNG" width="100" height="100"/>
 Chat Page
-<img src="./uploads/ChatRoom.PNG" width="60" height="60"/>
+<img src="./uploads/ChatRoom.PNG" width="100" height="100"/>
 
 
 This site is a little app build in node js on the express framework.
