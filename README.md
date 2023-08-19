@@ -2,18 +2,18 @@
 <p align="center">
 
 
-  <h3 align="center">Nodemagic</h3>
+  <h3 align="center">SparkVibe</h3>
 
   <p align="center">
     A little app showcasing of what is possible in an express/node app
     <br/>
     <br/>
-    <a href="https://nodemagic.onrender.com/" target="_blank" rel="noopener">View Page</a>
+    <a href="https://SparkVibe.onrender.com/" target="_blank" rel="noopener">View Page</a>
     .
   </p>
 </p>
 
-![Contributors](https://img.shields.io/github/contributors/ThatLukaszGuy/Nodemagic?color=dark-green) ![Forks](https://img.shields.io/github/forks/ThatLukaszGuy/Nodemagic?style=social) ![Stargazers](https://img.shields.io/github/stars/ThatLukaszGuy/Nodemagic?style=social) ![Issues](https://img.shields.io/github/issues/ThatLukaszGuy/Nodemagic) ![License](https://img.shields.io/github/license/ThatLukaszGuy/Nodemagic) 
+![Contributors](https://img.shields.io/github/contributors/ThatLukaszGuy/SparkVibe?color=dark-green) ![Forks](https://img.shields.io/github/forks/ThatLukaszGuy/SparkVibe?style=social) ![Stargazers](https://img.shields.io/github/stars/ThatLukaszGuy/SparkVibe?style=social) ![Issues](https://img.shields.io/github/issues/ThatLukaszGuy/SparkVibe) ![License](https://img.shields.io/github/license/ThatLukaszGuy/SparkVibe) 
 
 ## Table Of Contents
 
