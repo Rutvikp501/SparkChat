@@ -28,10 +28,22 @@
 
 <!-- ![Screen Shot Home](./uploads/home.PNG)
 ![Screen Shot Chat Room](./uploads/ChatRoom.PNG) -->
-Home page 
+<div class="gallery" style=" margin: 5px;  border: 1px solid #ccc;  float: left;  width: 180px;">
+  <a target="_blank" href="./uploads/home.PNG">
+    <img style=" width: 100%;height: auto;" src="./uploads/home.PNG" alt="Cinque Terre" width="600" height="400">
+  </a>
+  <div class="desc" style="  padding: 15px;  text-align: center;">Home page </div>
+</div>
+<div class="gallery" style=" margin: 5px;  border: 1px solid #ccc;  float: left;  width: 180px;" >
+  <a target="_blank" href="./uploads/ChatRoom.PNG">
+    <img src="./uploads/ChatRoom.PNG" alt="Cinque Terre" width="600" height="400" style=" width: 100%;  height: auto;">
+  </a>
+  <div class="desc" style="  padding: 15px;  text-align: center;">Chat Page</div>
+</div>
+<!-- Home page 
 <img src="./uploads/home.PNG" width="100" height="100"/>
 Chat Page
-<img src="./uploads/ChatRoom.PNG" width="100" height="100"/>
+<img src="./uploads/ChatRoom.PNG" width="100" height="100"/> -->
 
 
 This site is a little app build in node js on the express framework.
