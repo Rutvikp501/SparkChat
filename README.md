@@ -26,8 +26,13 @@
 
 ## About The Project
 
-![Screen Shot Home](./uploads/home.PNG)
-![Screen Shot Chat Room](./uploads/ChatRoom.PNG)
+<!-- ![Screen Shot Home](./uploads/home.PNG)
+![Screen Shot Chat Room](./uploads/ChatRoom.PNG) -->
+Home page 
+<img src="./uploads/home.PNG" width="60" height="60"/>
+Chat Page
+<img src="./uploads/ChatRoom.PNG" width="60" height="60"/>
+
 
 This site is a little app build in node js on the express framework.
 
