@@ -1,0 +1,7 @@
+<form name="gainn_form" id="gainn_form" method="post" action="http://localhost:8000/reports">
+<input type="hidden" id="sUserId" name="sUserId" value="GE0008" />
+<input type="hidden" id="sAccountId" name="sAccountId" value="GE0008" />
+<input type="hidden" id="sToken" name="sToken" value="3lO12606G7wu2B74nI7Q4o5T" />
+<input type="hidden" id="tag" name="tag" value="w" />
+<input type="submit" >
+</form>
