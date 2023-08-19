@@ -13,8 +13,6 @@
   </p>
 </p>
 
-![Contributors](https://img.shields.io/github/contributors/ThatLukaszGuy/SparkVibe?color=dark-green) ![Forks](https://img.shields.io/github/forks/ThatLukaszGuy/SparkVibe?style=social) ![Stargazers](https://img.shields.io/github/stars/ThatLukaszGuy/SparkVibe?style=social) ![Issues](https://img.shields.io/github/issues/ThatLukaszGuy/SparkVibe) ![License](https://img.shields.io/github/license/ThatLukaszGuy/SparkVibe) 
-
 ## Table Of Contents
 
 - [Table Of Contents](#table-of-contents)
@@ -28,7 +26,8 @@
 
 ## About The Project
 
-![Screen Shot](images/Screenshotnew.png)
+![Screen Shot Home](./uploads/home.PNG)
+![Screen Shot Chat Room](./uploads/ChatRoom.PNG)
 
 This site is a little app build in node js on the express framework.
 
@@ -83,6 +82,6 @@ Distributed under the ISC License.
 
 ## Authors
 
-* ThatLukaszGuy
+* RutvikP501
 
 

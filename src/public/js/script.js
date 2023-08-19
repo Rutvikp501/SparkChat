@@ -37,7 +37,7 @@ socket.on('roomUsers', ({ room, users }) => {
 
 // Message from server
 socket.on('message', (message) => {
-  console.log(message);
+  
   outputMessage(message);
 
   // Scroll down
@@ -89,7 +89,7 @@ function outputRoomName(room) {
 
 // Add users to DOM
 function outputUsers(users) {
-  console.log(users);
+ 
   userList.innerHTML = '';
   users.forEach((user) => {
     const li = document.createElement('li');

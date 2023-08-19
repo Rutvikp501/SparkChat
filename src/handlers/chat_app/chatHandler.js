@@ -23,7 +23,7 @@ module.exports = (io, socket) => {
           room: user.room,
           users: getRoomUsers(user.room)
         });
-        console.log(`${user.username} has joined the chat!`);
+       // console.log(`${user.username} has joined the chat!`);
       })
     
     

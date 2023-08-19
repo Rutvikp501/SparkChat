@@ -36,7 +36,7 @@ router.get('/:date?', (req ,res) => {
     res.json({ error: inputDate.toString()})
   } else {
     res.json({ unix: inputDate.getTime(),utc: inputDate.toUTCString() })
-    console.log(inputDate.getTime(), inputDate.toUTCString())
+    //console.log(inputDate.getTime(), inputDate.toUTCString())
   }
 
 })
