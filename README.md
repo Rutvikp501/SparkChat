@@ -2,13 +2,13 @@
 <p align="center">
 
 
-  <h3 align="center">SparkVibe</h3>
+  <h3 align="center">SparkChat</h3>
 
   <p align="center">
     A little app showcasing of what is possible in an express/node app
     <br/>
     <br/>
-    <a href="https://SparkVibe.onrender.com/" target="_blank" rel="noopener">View Page</a>
+    <a href="https://SparkChat.onrender.com/" target="_blank" rel="noopener">View Page</a>
     .
   </p>
 </p>

@@ -13,7 +13,7 @@ module.exports = (io, socket) => {
         socket.join(user.room)
     
         //message only to user that joined
-        socket.emit('message', formatMessage(bot, `Welcome to SparkVibe, You have successfully connected to ${user.room}!`));
+        socket.emit('message', formatMessage(bot, `Welcome to SparkChat, You have successfully connected to ${user.room}!`));
     
         //message to all except user that joined
         socket.broadcast.to(user.room).emit('message', formatMessage(bot, `${user.username} has joined the chat!`) );
